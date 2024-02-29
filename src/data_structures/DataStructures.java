@@ -2,9 +2,19 @@ package data_structures;
 
 import com.sun.source.tree.ReturnTree;
 
+import java.lang.reflect.Array;
 import java.text.MessageFormat;
 import java.util.*;
 
+/*Class Wrappers for primitives:
+byte	Byte
+short	Short
+int	Integer
+long	Long
+float	Float
+double	Double
+boolean	Boolean
+char	Character*/
 public class DataStructures {
 
     public static void main(String[] args) {
@@ -12,8 +22,9 @@ public class DataStructures {
         DataStructures.useArrayList();
         DataStructures.useLinkedList();
         DataStructures.useHashMap();
-        DataStructures.useHashSet();*/
-        DataStructures.useQueue();
+        DataStructures.useHashSet();
+        DataStructures.useQueue();*/
+        DataStructures.useIterator();
     }
 
     //ArrayList are faster for item access than LinkedLists but slower for insertion and deletion
@@ -83,6 +94,19 @@ public class DataStructures {
         };
 
         return row;
+    }
+    public static Iterator<String> getIterator(){
+
+        ArrayList<String> carBrandList = new ArrayList<>(){{
+            add("BMW");
+            add("Audi");
+            add("Mercedes");
+            add("Volkswagen");
+        }};
+
+        Iterator<String> carBrandsIterator = carBrandList.iterator();
+
+        return carBrandsIterator;
     }
     public static void useArrayList(){
         ArrayList<String> fruits = DataStructures.getArrayList();
@@ -174,5 +198,22 @@ public class DataStructures {
         System.out.println(row.peek());
         //Getting the item ahead of the queue without removing it
         String secondItem = row.element();
+        //Adds an item to the last position to the Queue and return false if it is full
+        // (not an Exception like with the .add method)
+        row.offer("Fifth");
+        System.out.println(row);
+
+    }
+
+    public static void useIterator(){
+        Iterator<String> carBrandIterator = DataStructures.getIterator();
+
+        //Checking if iterator has a next item
+        System.out.println(carBrandIterator.hasNext());
+        //Getting the iterator next item
+        System.out.println(carBrandIterator.next());
+        System.out.println(carBrandIterator);
+        carBrandIterator.remove();
+        System.out.println(carBrandIterator);
     }
 }

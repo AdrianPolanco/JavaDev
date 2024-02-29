@@ -1,71 +1,82 @@
 
 ’
-java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(÷äå³üÿÿÿÿ8°ˆ¬ß1
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(÷äå³üÿÿÿÿ8–¼©’ß1
 “
-java:S1319#"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(Å­¼óúÿÿÿÿ8²ˆ¬ß1
+java:S1319."qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(Å­¼óúÿÿÿÿ8—¼©’ß1
 
-java:S13190"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ƒ„Öøÿÿÿÿ8²ˆ¬ß1
+java:S1319;"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ƒ„Öøÿÿÿÿ8—¼©’ß1
 Š
-java:S1319@"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(¤‰ğÏ8²ˆ¬ß1
+java:S1319K"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(¤‰ğÏ8—¼©’ß1
 
-java:S1488$"dImmediately return this expression instead of assigning it to the temporary variable "technologies".(À¬ñ€8³ˆ¬ß1
+java:S1488/"dImmediately return this expression instead of assigning it to the temporary variable "technologies".(À¬ñ€8—¼©’ß1
 }
-java:S14881"`Immediately return this expression instead of assigning it to the temporary variable "capitals".(àç¯8³ˆ¬ß1
+java:S1488<"`Immediately return this expression instead of assigning it to the temporary variable "capitals".(àç¯8—¼©’ß1
 €
-java:S1488A"^Immediately return this expression instead of assigning it to the temporary variable "people".(Ñöº¸ıÿÿÿÿ8³ˆ¬ß1
+java:S1488L"^Immediately return this expression instead of assigning it to the temporary variable "people".(Ñöº¸ıÿÿÿÿ8—¼©’ß1
 x
-java:S1488L"[Immediately return this expression instead of assigning it to the temporary variable "row".(ô¿¹ˆ8³ˆ¬ß1
-]	java:S125"<This block of commented-out lines of code should be removed.(à€†Ãûÿÿÿÿ8Äˆ¬ß1
-]	java:S125"<This block of commented-out lines of code should be removed.(êø’àùÿÿÿÿ8Æˆ¬ß1
+java:S1488W"[Immediately return this expression instead of assigning it to the temporary variable "row".(ô¿¹ˆ8—¼©’ß1
+‹
+java:S1488k"iImmediately return this expression instead of assigning it to the temporary variable "carBrandsIterator".(Å¶×æÿÿÿÿÿ8˜¼©’ß1
+]	java:S125"<This block of commented-out lines of code should be removed.(à€†Ãûÿÿÿÿ8¨¼©’ß1
+]	java:S125("<This block of commented-out lines of code should be removed.(êø’àùÿÿÿÿ8ª¼©’ß1
 I
-java:S3599$",Use another way to initialize this instance.(À¬ñ€8Çˆ¬ß1
+java:S3599/",Use another way to initialize this instance.(À¬ñ€8«¼©’ß1
 {
-java:S1171%"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Èˆ¬ß1
+java:S11710"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8¬¼©’ß1
 I
-java:S35991",Use another way to initialize this instance.(àç¯8Êˆ¬ß1
+java:S3599<",Use another way to initialize this instance.(àç¯8­¼©’ß1
 {
-java:S11712"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ìˆ¬ß1
+java:S1171="YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8®¼©’ß1
 N
-java:S3599A",Use another way to initialize this instance.(Ñöº¸ıÿÿÿÿ8Íˆ¬ß1
+java:S3599L",Use another way to initialize this instance.(Ñöº¸ıÿÿÿÿ8±¼©’ß1
 {
-java:S1171B"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Îˆ¬ß1
+java:S1171M"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8²¼©’ß1
 I
-java:S3599L",Use another way to initialize this instance.(ô¿¹ˆ8Ïˆ¬ß1
+java:S3599W",Use another way to initialize this instance.(ô¿¹ˆ8³¼©’ß1
 {
-java:S1171M"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ğˆ¬ß1
-L	java:S106Z"+Replace this use of System.out by a logger.(ù¡úèşÿÿÿÿ8Ñˆ¬ß1
-L	java:S106]"+Replace this use of System.out by a logger.(±ÉÛøÿÿÿÿ8Ñˆ¬ß1
-L	java:S106_"+Replace this use of System.out by a logger.(¸³ïÄøÿÿÿÿ8Ñˆ¬ß1
-L	java:S106d"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8Óˆ¬ß1
-L	java:S106h"+Replace this use of System.out by a logger.(±ÉÛøÿÿÿÿ8Õˆ¬ß1
-G	java:S106n"+Replace this use of System.out by a logger.(à¤™ø8Öˆ¬ß1
-L	java:S106o"+Replace this use of System.out by a logger.(±ŸÔ¯üÿÿÿÿ8Öˆ¬ß1
-L	java:S106p"+Replace this use of System.out by a logger.(¹´Ùªÿÿÿÿÿ8Öˆ¬ß1
-G	java:S106s"+Replace this use of System.out by a logger.(à¤™ø8×ˆ¬ß1
-G	java:S106v"+Replace this use of System.out by a logger.(à¤™ø8×ˆ¬ß1
-G	java:S106x"+Replace this use of System.out by a logger.(à¤™ø8×ˆ¬ß1
-G	java:S106z"+Replace this use of System.out by a logger.(à¤™ø8Øˆ¬ß1
-H	java:S106"+Replace this use of System.out by a logger.(ó®éã8Ùˆ¬ß1
-M	java:S106„"+Replace this use of System.out by a logger.(ÁÂÑÿÿÿÿÿ8Ùˆ¬ß1
-M	java:S106‡"+Replace this use of System.out by a logger.(ÁÂÑÿÿÿÿÿ8Ùˆ¬ß1
-H	java:S106‰"+Replace this use of System.out by a logger.(ˆ˜ÚÍ8Ùˆ¬ß1
-M	java:S106‹"+Replace this use of System.out by a logger.(Â§³ƒûÿÿÿÿ8Úˆ¬ß1
-M	java:S106"+Replace this use of System.out by a logger.(Ûè»ùÿÿÿÿ8Úˆ¬ß1
-M	java:S106”"+Replace this use of System.out by a logger.(éïòøÿÿÿÿ8Ûˆ¬ß1
-M	java:S106˜"+Replace this use of System.out by a logger.(ë¸óúÿÿÿÿ8Ûˆ¬ß1
-M	java:S106™"+Replace this use of System.out by a logger.(éïòøÿÿÿÿ8Üˆ¬ß1
-M	java:S106œ"+Replace this use of System.out by a logger.(éïòøÿÿÿÿ8Şˆ¬ß1
-M	java:S106"+Replace this use of System.out by a logger.(äâ²ïıÿÿÿÿ8Şˆ¬ß1
-M	java:S106¡"+Replace this use of System.out by a logger.(‚é€Şûÿÿÿÿ8Şˆ¬ß1
-H	java:S106£"+Replace this use of System.out by a logger.(‡Óßş8Şˆ¬ß1
+java:S1171X"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8´¼©’ß1
+N
+java:S3599d",Use another way to initialize this instance.(û‘Â¢øÿÿÿÿ8·¼©’ß1
+{
+java:S1171d"YMove the contents of this initializer to a standard constructor or to field initializers.(û‘Â¢øÿÿÿÿ8¸¼©’ß1
+L	java:S106r"+Replace this use of System.out by a logger.(ù¡úèşÿÿÿÿ8º¼©’ß1
+L	java:S106u"+Replace this use of System.out by a logger.(±ÉÛøÿÿÿÿ8º¼©’ß1
+L	java:S106w"+Replace this use of System.out by a logger.(¸³ïÄøÿÿÿÿ8º¼©’ß1
+L	java:S106|"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8»¼©’ß1
+M	java:S106€"+Replace this use of System.out by a logger.(±ÉÛøÿÿÿÿ8»¼©’ß1
+H	java:S106†"+Replace this use of System.out by a logger.(à¤™ø8¼¼©’ß1
+M	java:S106‡"+Replace this use of System.out by a logger.(±ŸÔ¯üÿÿÿÿ8¼¼©’ß1
+M	java:S106ˆ"+Replace this use of System.out by a logger.(¹´Ùªÿÿÿÿÿ8½¼©’ß1
+H	java:S106‹"+Replace this use of System.out by a logger.(à¤™ø8½¼©’ß1
+H	java:S106"+Replace this use of System.out by a logger.(à¤™ø8½¼©’ß1
+H	java:S106"+Replace this use of System.out by a logger.(à¤™ø8¾¼©’ß1
+H	java:S106’"+Replace this use of System.out by a logger.(à¤™ø8¾¼©’ß1
+H	java:S106™"+Replace this use of System.out by a logger.(ó®éã8¿¼©’ß1
+M	java:S106œ"+Replace this use of System.out by a logger.(ÁÂÑÿÿÿÿÿ8¿¼©’ß1
+M	java:S106Ÿ"+Replace this use of System.out by a logger.(ÁÂÑÿÿÿÿÿ8À¼©’ß1
+H	java:S106¡"+Replace this use of System.out by a logger.(ˆ˜ÚÍ8À¼©’ß1
+M	java:S106£"+Replace this use of System.out by a logger.(Â§³ƒûÿÿÿÿ8Á¼©’ß1
+M	java:S106¥"+Replace this use of System.out by a logger.(Ûè»ùÿÿÿÿ8Á¼©’ß1
+M	java:S106¬"+Replace this use of System.out by a logger.(éïòøÿÿÿÿ8Â¼©’ß1
+M	java:S106°"+Replace this use of System.out by a logger.(ë¸óúÿÿÿÿ8Â¼©’ß1
+M	java:S106±"+Replace this use of System.out by a logger.(éïòøÿÿÿÿ8Ã¼©’ß1
+M	java:S106´"+Replace this use of System.out by a logger.(éïòøÿÿÿÿ8Ã¼©’ß1
+M	java:S106¶"+Replace this use of System.out by a logger.(äâ²ïıÿÿÿÿ8Ã¼©’ß1
+M	java:S106¹"+Replace this use of System.out by a logger.(‚é€Şûÿÿÿÿ8Ã¼©’ß1
+H	java:S106»"+Replace this use of System.out by a logger.(‡Óßş8Ä¼©’ß1
 c
-java:S1612¤"@Replace this lambda with method reference 'System.out::println'.(Ó…øúÿÿÿÿ8ßˆ¬ß1
-M	java:S106¤"+Replace this use of System.out by a logger.(Ó…øúÿÿÿÿ8ßˆ¬ß1
+java:S1612¼"@Replace this lambda with method reference 'System.out::println'.(Ó…øúÿÿÿÿ8Ä¼©’ß1
+M	java:S106¼"+Replace this use of System.out by a logger.(Ó…øúÿÿÿÿ8Ä¼©’ß1
 \
-java:S1854°">Remove this useless assignment to local variable "secondItem".(–èÅ8·µ¶ß1
-H	java:S106ª"+Replace this use of System.out by a logger.(‘¹ü£8àˆ¬ß1
-H	java:S106®"+Replace this use of System.out by a logger.(‘¹ü£8àˆ¬ß1
+java:S1854È">Remove this useless assignment to local variable "secondItem".(–èÅ8Å¼©’ß1
+H	java:S106Â"+Replace this use of System.out by a logger.(‘¹ü£8Å¼©’ß1
+H	java:S106Æ"+Replace this use of System.out by a logger.(‘¹ü£8Å¼©’ß1
 M
-java:S1481°"/Remove this unused "secondItem" local variable.(–èÅ8¸µ¶ß1
+java:S1481È"/Remove this unused "secondItem" local variable.(–èÅ8Æ¼©’ß1
+M	java:S106Ì"+Replace this use of System.out by a logger.(”Ò¦¢ûÿÿÿÿ8Ç¼©’ß1
+H	java:S106Ô"+Replace this use of System.out by a logger.(ÌÃßÖ8È¼©’ß1
+M	java:S106Ö"+Replace this use of System.out by a logger.(¼˜¤¿ûÿÿÿÿ8Ê¼©’ß1
+H	java:S106×"+Replace this use of System.out by a logger.(ûŞş8Ë¼©’ß1
+H	java:S106Ù"+Replace this use of System.out by a logger.(ûŞş8Í¼©’ß1
 ]
-java:S1128";Remove this unused import 'com.sun.source.tree.ReturnTree'.(Ù•À„ÿÿÿÿÿ8àˆ¬ß1
+java:S1128";Remove this unused import 'com.sun.source.tree.ReturnTree'.(Ù•À„ÿÿÿÿÿ8Î¼©’ß1

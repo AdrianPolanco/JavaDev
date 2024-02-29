@@ -28,3 +28,5 @@ Q.idea/sonarlint/securityhotspotstore/e/1/e1c24e2bb34b38f7c54b3a49e2d43aec9f7540
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 Å
 Q.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138,b\0\b08f1ab659fbdd998f45c0def99188f980cc899b
+N
+src/validations/Validator.java,0\7\07c5e5e54c7002302e173a62faeb765d7e61a954
