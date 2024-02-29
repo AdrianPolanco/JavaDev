@@ -1,0 +1,8 @@
+
+b	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(²¨€8¡ÑçŒß1
+G	java:S106"+Replace this use of System.out by a logger.(Œ£»8²ÑçŒß1
+F	java:S106"+Replace this use of System.out by a logger.(ç«Ú"8²ÑçŒß1
+L	java:S106"+Replace this use of System.out by a logger.(¦ÍŞ‹şÿÿÿÿ8²ÑçŒß1
+L	java:S106"+Replace this use of System.out by a logger.(Éù¦ºúÿÿÿÿ8³ÑçŒß1
+‰
+java:S1130""lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(²¨€8µÑçŒß1
